@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajuranwa13
+- 👋 Hi, I’m Ajay Ranwa
 - 👀 I’m interested in Data Science, Web Development,Data Analytics.
 - 🌱 I’m currently learning Django,Machine Learning.
 - 💞️ I’m looking to collaborate on Developing new Things which can make our day to day life easy to go with.
