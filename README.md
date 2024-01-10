@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ajay Ranwa
-- 👀 I’m interested in Data Science, Web Development,Data Analytics.
-- 🌱 I’m currently learning Django,Machine Learning.
-- 💞️ I’m looking to collaborate on Developing new Things which can make our day to day life easy to go with.
+- 👀 I’m interested in Data Science, Web Development, and Data Analytics.
+- 🌱 I’m currently learning Python, SQL and Machine Learning.
+- 💞️ I’m looking to collaborate on Developing new Things which can make our day-to-day life easy to go with.
 - 📫 How to reach me MailID:-ajuranwa1999@gmail.com ,Phone number:- 6378337598
 
 <!---
